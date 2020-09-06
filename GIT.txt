@@ -1,0 +1,5 @@
+git init
+git add leame.docx
+git commit -m "version 1"
+git remote add origin https://github.com/jabello1979/prueba.git
+git push origin master
